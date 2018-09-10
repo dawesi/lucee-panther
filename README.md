@@ -6,8 +6,8 @@ A new admin panel for Lucee (o/s coldfusion/cfml engine)
 
 #### Panther Themes
 
-* [Clean Theme](https://bitbucket.org/teamcfml/lucee-panther-theme-clean)
-* [Mobile App](https://bitbucket.org/teamcfml/lucee-panther-mobile)
+* [Clean "desktop" Theme](https://bitbucket.org/teamcfml/lucee-panther-theme-clean)
+* [Clean "Mobile" App Theme](https://bitbucket.org/teamcfml/lucee-panther-mobile)
 
 #### Panther Mixins
 
