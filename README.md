@@ -11,7 +11,7 @@ A new admin panel for Lucee (o/s coldfusion/cfml engine)
 #### Panther Mixins
 
 * [Caching](https://bitbucket.org/teamcfml/lucee-panther-caching)
-
+* [Component](https://bitbucket.org/teamcfml/lucee-panther-component)
 * [Crypto](https://bitbucket.org/teamcfml/lucee-panther-crypto)
 * [Crypto - SSL](https://bitbucket.org/teamcfml/lucee-panther-crypto-ssl)
 
@@ -23,7 +23,7 @@ A new admin panel for Lucee (o/s coldfusion/cfml engine)
 * [Lucee Extension - Packager](https://bitbucket.org/teamcfml/lucee-panther-db-ext-packager)
 
 * [Error](https://bitbucket.org/teamcfml/lucee-panther-error)
-* [Locale](https://bitbucket.org/teamcfml/lucee-panther-locale
+* [Locale](https://bitbucket.org/teamcfml/lucee-panther-locale)
 
 * [Metrics](https://bitbucket.org/teamcfml/lucee-panther-metrics)
 * [Metrics - Logs](https://bitbucket.org/teamcfml/lucee-panther-metrics-logs)
