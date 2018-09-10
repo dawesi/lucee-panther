@@ -1,5 +1,5 @@
 # Lucee Panther
-Panther is a admin panel reimagination for [Lucee](https://lucee.org) (o/s coldfusion/cfml engine) by TeamCFML and is based on the the DiiMES Framework version v14.x+
+Panther is a admin panel reimagination for [Lucee](https://lucee.org) (o/s coldfusion/cfml engine) by TeamCFML and is based on the the DiiMES CFML Framework version v14.x+
 
 The project was started in 2018, and has now been moved to Bitbucket.
 
