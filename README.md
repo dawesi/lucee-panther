@@ -1,6 +1,8 @@
 # Lucee Panther
 Panther is a admin panel reimagination for [Lucee](https://lucee.org) (o/s coldfusion/cfml engine) by TeamCFML
 
+The project was started in 2018, and has now been moved to Bitbucket.
+
 ### Project Moved To Bitbucket
 * [Lucee Panther Admin](https://bitbucket.org/teamcfml/lucee-panther/ "Get your pather on!") - An extendable admin panel for Lucee
 
