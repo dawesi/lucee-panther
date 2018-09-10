@@ -13,6 +13,7 @@ A new admin panel for Lucee (o/s coldfusion/cfml engine)
 
 * [Caching](https://bitbucket.org/teamcfml/lucee-panther-caching)
 * [Component](https://bitbucket.org/teamcfml/lucee-panther-component)
+
 * [Crypto](https://bitbucket.org/teamcfml/lucee-panther-crypto)
 * [Crypto - SSL](https://bitbucket.org/teamcfml/lucee-panther-crypto-ssl)
 
@@ -29,6 +30,8 @@ A new admin panel for Lucee (o/s coldfusion/cfml engine)
 * [Metrics](https://bitbucket.org/teamcfml/lucee-panther-metrics)
 * [Metrics - Logs](https://bitbucket.org/teamcfml/lucee-panther-metrics-logs)
 * [Metrics - Performance](https://bitbucket.org/teamcfml/lucee-panther-performance)
+
+* [Mixin Manager](https://bitbucket.org/teamcfml/lucee-panther-mixins)
 
 * [Notifications](https://bitbucket.org/teamcfml/lucee-panther-notify)
 * [Notifications - Email](https://bitbucket.org/teamcfml/lucee-panther-notify-email)
