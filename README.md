@@ -2,7 +2,7 @@
 A new admin panel for Lucee (o/s coldfusion/cfml engine)
 
 ### Project Moved To Bitbucket
-* [Lucee Panther](https://bitbucket.org/teamcfml/lucee-panther/ "Get your pather on!")
+* [Lucee Panther Admin](https://bitbucket.org/teamcfml/lucee-panther/ "Get your pather on!") - An extendable admin panel for Lucee
 
 #### Panther Themes
 
