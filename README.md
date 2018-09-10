@@ -22,8 +22,8 @@ Panther is a admin panel reimagination for [Lucee](https://lucee.org) (o/s coldf
 * [Database - DAO](https://bitbucket.org/teamcfml/lucee-panther-db-dao) - Database Helpers
 * [Database - ORM](https://bitbucket.org/teamcfml/lucee-panther-db-orm) - Database ORM Settings
 
-* [Lucee Extension](https://bitbucket.org/teamcfml/lucee-panther-db-ext)
-* [Lucee Extension - Packager](https://bitbucket.org/teamcfml/lucee-panther-db-ext-packager)
+* [Lucee Extensions](https://bitbucket.org/teamcfml/lucee-panther-db-ext) - Lucee Extension Provider/Apps
+* [Lucee Extensions - Packager](https://bitbucket.org/teamcfml/lucee-panther-db-ext-packager) - Lucee Extension Packager Utilities
 
 * [Error](https://bitbucket.org/teamcfml/lucee-panther-error) - Error Settings
 * [Locale](https://bitbucket.org/teamcfml/lucee-panther-locale) - Locale Settings
